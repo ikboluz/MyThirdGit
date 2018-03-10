@@ -6,7 +6,7 @@ public class GoodMorning {
 		System.out.println("Good Morning class!");
 		
 		for (int i = 0; i < 10; i++) {
-			System.out.println("Solut sava sava Mikhailo");
+			System.out.println("Solut  sava sava Mikhailo");
 		}
 	}
 }
