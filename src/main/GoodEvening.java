@@ -7,7 +7,7 @@ public class GoodEvening {
 		System.out.println("12345");
 		
 		for (int i = 0; i < 10; i++) {
-			System.out.println("Priver Mikhailo");
+			System.out.println("Hello Everybody");
 		}
 	}
 }
